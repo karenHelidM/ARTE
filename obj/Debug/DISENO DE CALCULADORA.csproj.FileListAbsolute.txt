@@ -1,0 +1,11 @@
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO DE CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO DE CALCULADORA.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO_DE_CALCULADORA.Form1.resources
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO_DE_CALCULADORA.Properties.Resources.resources
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO DE CALCULADORA.csproj.GenerateResource.cache
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO DE CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\bin\Debug\DISENO DE CALCULADORA.exe.config
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\bin\Debug\DISENO DE CALCULADORA.exe
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\bin\Debug\DISENO DE CALCULADORA.pdb
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO DE CALCULADORA.exe
+C:\Users\karen\OneDrive\Documentos\DISENO DE CALCULADORA\DISENO DE CALCULADORA\obj\Debug\DISENO DE CALCULADORA.pdb
